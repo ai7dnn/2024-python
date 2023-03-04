@@ -13,6 +13,11 @@
 - 향후 빅데이터분석과 인공지능 분야에 반드시 필요하다.
 - 다양한 라이브러리를 제공한다.
 
+### 깃허브(github) 활용 기초
+- 깃허브 계정 생성 (https://www.github.com)
+- 파이썬 수업 zip 다운로드
+- 파이썬 수업 깃허브 fork(복사)
+
 ### 파이썬 개발환경
 - 표준 파이썬 (https://www.python.org)
 - 젯브래인 파이참 (https://www.jetbrains.com)
