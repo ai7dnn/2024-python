@@ -4,15 +4,15 @@
 ## 교재: 파이썬으로 배우는 누구나 코딩
 - 홍릉과학출판사: 강환수, 신용현 저
 
+## [python-for-everyone](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791156006916&orderClick=LEa&Kc=)
+
+![image](https://user-images.githubusercontent.com/70050528/144942615-5021160f-0fb5-4a41-b129-c41cfed81708.png)
+
 ## 파이썬 학습의 중요성
 - 누구나 배워야할 프로그래밍 언어이다. 
 - 배우기 쉽고 강력하다. 
 - 향후 빅데이터분석과 인공지능 분야에 반드시 필요하다.
 - 다양한 라이브러리를 제공한다.
-
-## [python-for-everyone](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791156006916&orderClick=LEa&Kc=)
-
-![image](https://user-images.githubusercontent.com/70050528/144942615-5021160f-0fb5-4a41-b129-c41cfed81708.png)
 
 ### 파이썬 개발환경
 - 표준 파이썬 (https://www.python.org)
