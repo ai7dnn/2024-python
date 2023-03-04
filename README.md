@@ -17,8 +17,8 @@
 - 구글이나 MS, 네이버 메일 준비, 메일 로그인
 - 깃허브 계정 생성 (https://www.github.com)
 - 깃허브 계정 로그인 후 저장소 first-repo 생성
-- 파이썬 수업(https://github.com/ai7dnn/2023-python) zip 다운로드
-- 파이썬 수업(https://github.com/ai7dnn/2023-python) 깃허브 fork(복사)
+- 파이썬 수업(https://github.com/ai7dnn/2023-python) 깃허브 저장소 zip 다운로드
+- 파이썬 수업(https://github.com/ai7dnn/2023-python) 깃허브 저장소 fork(복사)
 
 ### 파이썬 개발환경
 - 표준 파이썬 (https://www.python.org)
