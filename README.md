@@ -23,7 +23,7 @@
 ### 동영상 시청
 - 동양미래대학교 [원격수업시스템](https://eclass.dongyang.ac.kr)
   - 시청 시간에 맞추어 시청하시면 출석 처리 
-- [유튜브 동영상](https://www.youtube.com/@aitcode)
+- 교수 [유튜브 동영상](https://www.youtube.com/@aitcode)
   - 출석과 무관하게 언제 어디서나 시청 
 
 ### 파이썬 개발환경
