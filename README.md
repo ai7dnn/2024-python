@@ -1,6 +1,9 @@
 # 2023-python
 - 2023학년도 1학기 파이썬프로그래밍
 
+## 시험과 보강 일정
+![image](https://user-images.githubusercontent.com/70050528/229408046-9411ba23-a707-42c6-86fa-42cad573ff5e.png)
+
 ## 교재: 파이썬으로 배우는 누구나 코딩
 - 홍릉과학출판사: 강환수, 신용현 저
 
