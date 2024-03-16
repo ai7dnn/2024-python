@@ -43,3 +43,8 @@
 
 ### 마크다운 학습 사이트
 - 마크다운 에디터 딜링거 (https://dillinger.io)
+
+###  재직자과정 수업 실습
+- [토요일 수업](https://docs.google.com/spreadsheets/d/1cTjmGF8ynVlf-7b-MQRXtR8926dd6kHg5Oky2csvWEw/edit?usp=sharing)
+
+- 
